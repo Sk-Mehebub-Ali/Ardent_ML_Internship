@@ -29,13 +29,11 @@ The project is beginner-friendly and can be extended for real-world use cases.
 
 ## 📂 Project Structure
 
-├── Project_2.ipynb
-├── src/
-│ └── main.py
-├── data/
-│ └── dataset.csv
-├── requirements.txt
-└── README.md
+ 
+
+├── Project-2
+│ └── Project_2.ipynb
+  └── README.md
 
 
 ---
